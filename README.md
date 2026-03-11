@@ -33,6 +33,7 @@ Jointplots: Visualizing data density and the trend between a movie's popularity 
 To run this project locally, ensure you have the following libraries installed:
 
 Bash
+
 pip install pandas numpy matplotlib seaborn
 Clone the repository:
 
